@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(79, 248, 248);
+    border-top: 4px solid black;
+    border-right: 20px solid black;
+    border-left: 20px solid black;
+    text-align: center;
+    border-bottom: 20px solid black;
+
+}
+.form {
+    background-color: white;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    text-align: center;
+}
+h2{
+    color: blue;
+    font-style: inherit;
+    font-size: xx-large;
+    padding: 3px;
+}
+.content {
+    background-color: white;
+    margin-top: 3vh;
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: 6vh;
+}

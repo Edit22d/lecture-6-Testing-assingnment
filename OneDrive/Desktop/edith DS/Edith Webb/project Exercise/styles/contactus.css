@@ -1,0 +1,19 @@
+table,td,tr,th{
+    padding: 5px;
+    border: 2px solid black;
+    }
+    th{
+        color:white;
+        background-color: rgb(77, 77, 250);
+        font-style: inherit;
+        font-size: xx-large;
+    }
+    td{
+        color: black;
+    }
+        
+    
+    
+body{
+    background-color: rgb(108, 252, 252);
+}

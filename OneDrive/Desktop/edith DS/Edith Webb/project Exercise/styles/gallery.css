@@ -1,0 +1,13 @@
+H1 {
+    color: blue;
+    font-size: xx-large;
+    padding: 5PX;
+    font-style: inherit;
+}
+body {
+    background-color: rgb(121, 248, 248);
+}
+ul {
+    color: blue;
+    font-size: xx-large;
+}
